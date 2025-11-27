@@ -1,0 +1,2 @@
+BookingAC.HibernateUtil
+HibernateUtil
